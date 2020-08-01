@@ -1,16 +1,29 @@
-# list_app
+# List app
 
-A new Flutter project.
+![](https://img.shields.io/badge/Made%20with-Flutter-blue) ![](https://img.shields.io/badge/Made%20with-Dart-blue)
 
-## Getting Started
+it is an app that show a simple list from json file.
 
-This project is a starting point for a Flutter application.
+<div align="center"><img src="https://imgur.com/W1Vb9M4.png" width="280" height="510" align="middle"/></div>
 
-A few resources to get you started if this is your first Flutter project:
+## Starting 🚀
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+These instructions allow you to obtain a copy of the running project on your local machine for development and testing purposes.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites 📋
+
+You need to have install:
+- Flutter SDK
+- Dart SDK
+
+### Installation 🔧
+
+Use the following command for download dependencies and packages.
+
+````
+flutter package get
+````
+
+------
+
+⌨️ with ❤️ for [AndyGeek](https://github.com/andygeek) 😊
