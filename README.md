@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Made%20with-Flutter-blue) ![](https://img.shields.io/badge/Made%20with-Dart-blue)
 
-it is an app that show a simple list from json file.
+It is an app that show a simple list from json file.
 
 <div align="center"><img src="https://imgur.com/W1Vb9M4.png" width="280" height="510" align="middle"/></div>
 
